@@ -1,0 +1,11 @@
+name = "Kavelle"
+license = "MIT"
+licenselink = "https://github.com/formgong-hq/kavelle-hugo-theme/blob/main/LICENSE"
+description = "A dark one-page site for an interior design or architecture studio: a full-screen project slider, project categories, the studio philosophy, services, numbers and a contact form that sends to Formgong."
+homepage = "https://github.com/formgong-hq/kavelle-hugo-theme"
+demosite = "https://kavelle.formgong.com"
+tags = ["landing","business","portfolio","contact","responsive","dark"]
+
+[author]
+  name = "Formgong"
+  homepage = "https://formgong.com"
