@@ -2,7 +2,7 @@
 
 A dark one-page site for an interior design or architecture studio: a full-screen project slider, project categories, the studio philosophy, services, numbers and a contact form that sends to Formgong.
 
-![Kavelle](https://raw.githubusercontent.com/formgong/hugo-theme-kavelle/main/images/screenshot.png)
+![Kavelle](https://raw.githubusercontent.com/formgong-hq/kavelle-hugo-theme/main/images/screenshot.png)
 
 Demo: https://kavelle.formgong.com
 
@@ -18,13 +18,13 @@ hugo mod init example.com/site
 # hugo.toml
 [module]
   [[module.imports]]
-    path = "github.com/formgong-hq/hugo-theme-kavelle"
+    path = "github.com/formgong-hq/kavelle-hugo-theme"
 ```
 
 Or as a git submodule:
 
 ```sh
-git submodule add https://github.com/formgong-hq/hugo-theme-kavelle.git themes/kavelle
+git submodule add https://github.com/formgong-hq/kavelle-hugo-theme.git themes/kavelle
 echo 'theme = "kavelle"' >> hugo.toml
 ```
 
