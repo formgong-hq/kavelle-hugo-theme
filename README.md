@@ -34,8 +34,11 @@ Hugo 0.156.0 or newer, no npm packages and no Hugo extended needed. Posts, tags,
 
 ## Run the example site
 
+The folder must be named `kavelle`, the same as `theme` in `exampleSite/hugo.toml`:
+
 ```sh
-cd exampleSite
+git clone https://github.com/formgong-hq/kavelle-hugo-theme.git kavelle
+cd kavelle/exampleSite
 hugo server --themesDir ../..
 ```
 
